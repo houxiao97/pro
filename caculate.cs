@@ -4,7 +4,4 @@ public static class caculate
 	{
 		return a+b;
 	}
-	
 }
-
-ei people live for once;
